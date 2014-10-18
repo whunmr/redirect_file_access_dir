@@ -27,12 +27,12 @@ for example sleep5.exe code, running from E:\lab\detours\samples\simple\ :
 
 log:
 ------------
-access CreateFile --------> C:\lab\detours\samples\simple\xxx.txt
-The file 'data2' was opened
-access DeleteFile --------> C:\lab\detours\samples\simple\ddd.txt
-access AddUsersToEncryptedFile --------> C:\lab\detours\samples\simple\xxx.txt
-access CopyFile --------> C:\lab\detours\samples\simple\xxx.txt _and_ C:\lab\det
-ours\samples\simple\yyy.txt
-access CopyFile --------> C:\xxx.txt _and_ C:\lab\detours\samples\simple\yyy.txt
-access CopyFile --------> C:\lab\detours\samples\simple\xxx.txt _and_ C:\yyy.txt
+        access CreateFile --------> C:\lab\detours\samples\simple\xxx.txt
+        The file 'data2' was opened
+        access DeleteFile --------> C:\lab\detours\samples\simple\ddd.txt
+        access AddUsersToEncryptedFile --------> C:\lab\detours\samples\simple\xxx.txt
+        access CopyFile --------> C:\lab\detours\samples\simple\xxx.txt _and_ C:\lab\det
+        ours\samples\simple\yyy.txt
+        access CopyFile --------> C:\xxx.txt _and_ C:\lab\detours\samples\simple\yyy.txt
+        access CopyFile --------> C:\lab\detours\samples\simple\xxx.txt _and_ C:\yyy.txt
 
